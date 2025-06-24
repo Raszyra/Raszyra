@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Raszyra (call me $Bill)
+- 👋 Hi, I’m @Raszyra (call me Will)
 - 👀 I’m interested in ... Entertainment Media
-- 🌱 I’m currently learning ... Web Design
+- 🌱 I’m currently learning ... Godot 4.x
 - 💞️ I’m looking to collaborate on ... Games, art, movies, books, trading cards, animations, every medium, I'm here for it
-- 📫 How to reach me ... billhooker@gmail.com
+- 📫 How to reach me ... faction7entertainment@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I designed my first board game for a 3rd grade project and had so much fun it became a career goal.
 
